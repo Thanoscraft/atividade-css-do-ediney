@@ -1,0 +1,162 @@
+p.p1{
+    color: #ffff99;
+}
+p.p2{
+    background-color: #66ccff;
+}
+p.p3{
+  background-color: #99ff66;  
+}
+p.p4{
+    background-color: #ffff99;
+   margin-left: 20px ;
+   margin-top: 20px;
+} 
+p.p5{
+    background-color: #66ccff;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+p.p6{
+    background-color: #99ff66; 
+    margin-top: 20px;
+    margin-left: 20px;
+}
+p.p7{
+    background-color: #ffff99;
+    margin-right: 20px ;
+    margin-top: 20px;
+}
+p.p8{
+    background-color: #66ccff;
+    margin-top: 20px;
+    margin-right: 20px;
+    border: 4px, dotted, blue;
+
+}
+p.p9{
+    background-color: #99ff66; 
+    margin-top: 20px;
+    margin-right: 20px;
+}
+body.body1{
+    background-color:gray ;
+}
+body.body2{
+    margin: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-family: tahoma;
+    font-size: 14px;
+
+}
+p.p10{
+    background-color: #ffff99;
+}
+p.p11{
+    background-color: #66ccff;
+}
+p.p12{
+    background-color: #99ff66;
+}
+div.div1{
+    background-color: #ffff99;
+}
+div.div2{
+    background-color: gray
+}
+div.div3{
+    background-color: #99ff66;
+}
+
+body.body3{
+    margin: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-family: tahoma;
+    font-size: 14px;
+}
+h2.inicio{
+ color: #964b; 
+ font-weight: bold;
+ font-size: 20px;
+}
+h2.Desenvolvimento{
+    color: #ffcc00;
+    font-weight: bold;
+    font-size: 20px;
+}
+p.p13{
+    color: navy;
+}
+p.p14{
+    color: #ffffff;
+}
+p.p15{
+    color: black;
+}
+body.body4{
+    background-color: navy;
+}
+p.texto{
+    border: 2px, solid;
+    color: white;
+    text-align: center;
+    padding: 10;
+    margin: 10;
+
+  
+}
+h1.titulo{
+    border-bottom:4px dotted red;
+    color: white;
+}
+h1.titulo2{
+   border-bottom: solid #33ffff;
+   color: yellow;
+}
+p.texto1{
+    font-family: monospace;
+    color: white;
+    border: solid 2px white;
+    text-align: center;
+    padding: 10;
+    margin: 10;
+
+}
+p.texto2{
+   font-family: monospace;
+   color: #ccc;
+   background-color: black;
+   text-align: center;
+    padding: 10;
+    margin: 10;
+    border: solid 2px white;
+}
+ul.ul1{
+ list-style-image: url(img/icons8-estrela-50.png);
+ border: red solid 2px;
+ background-color: beige;
+}
+ul.ul2{
+    list-style-image: url(img/icons8-marca-de-seleção-emoji-48.png);
+}
+h1.compras{
+    color: blue;
+}
+body.estrela{
+    background-color: gray;
+}
+p.lorem1{
+    background-color: #ffff99;
+}
+p.lorem2{
+    background-color: #33ffff;
+    border-style: dashed;
+}
+p.lorem3{
+    background-color: #99ff66;
+}
+body.body5{
+    background-color: gray;
+}
